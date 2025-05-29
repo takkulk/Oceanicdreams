@@ -1,0 +1,47 @@
+<nav class="navbar">
+  <div class="navbar-container">
+    <div class="logo">Oceanic Dreams</div>
+    <div class="nav-links" [class.responsive]="isMenuOpen">
+      <a href="#">Főoldal</a>
+      <a href="#">Szolgáltatások</a>
+      <a href="#">Áraink</a>
+      <a href="#">Kapcsolat</a>
+      <form class="search-form" role="search" aria-label="Keresés" (submit)="$event.preventDefault()">
+        <input type="text" placeholder="Keresés..." aria-label="Keresés" />
+      </form>
+    </div>
+    <div class="hamburger" (click)="toggleMenu()" aria-label="Menü megnyitása" role="button" tabindex="0">
+      ☰
+    </div>
+  </div>
+</nav>
+
+<section class="hero-section">
+  <h1>Üdvözlünk az Oceanic Dreams Yacht Bérlési Rendszerben!</h1>
+  <p>Fedezze fel a legszebb tengeri élményeket a mi yachtjainkkal.</p>
+</section>
+
+<section class="content-section">
+  <div class="image-text-container">
+    <div></div>
+    <img src="src\assets\PerfectBoat1.jpg" alt="Luxus yacht" />
+    <div class="text-block">
+      <h2>Luxus és kényelem</h2>
+      <p>Nálunk minden részlet a vendégeink kényelmét szolgálja.</p>
+    </div>
+  </div>
+  <div class="image-text-container">
+    <img src="assets\PerfectBoat2.jpg" alt="Tengerparti élmény" />
+    <div class="text-block">
+      <h2>Csodálatos tájak</h2>
+      <p>Fedezze fel a legszebb tengeri tájakat velünk.</p>
+    </div>
+  </div>
+  <div class="image-text-container">
+    <img src="\assets\PerfectBoat3.jpg" alt="Naplemente yachtokkal" />
+    <div class="text-block">
+      <h2>Naplemente élmények</h2>
+      <p>Élvezze a lenyűgöző naplementéket a nyílt tengeren.</p>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,7 @@
+C:\Users\Diak\Desktop\TomaArpadKristof20250529\YachtStatisztikaiRendszer\YachtStatisztikaiRendszer\bin\Debug\YachtStatisztikaiRendszer.exe.config
+C:\Users\Diak\Desktop\TomaArpadKristof20250529\YachtStatisztikaiRendszer\YachtStatisztikaiRendszer\bin\Debug\YachtStatisztikaiRendszer.exe
+C:\Users\Diak\Desktop\TomaArpadKristof20250529\YachtStatisztikaiRendszer\YachtStatisztikaiRendszer\bin\Debug\YachtStatisztikaiRendszer.pdb
+C:\Users\Diak\Desktop\TomaArpadKristof20250529\YachtStatisztikaiRendszer\YachtStatisztikaiRendszer\obj\Debug\YachtStatisztikaiRendszer.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\TomaArpadKristof20250529\YachtStatisztikaiRendszer\YachtStatisztikaiRendszer\obj\Debug\YachtStatisztikaiRendszer.csproj.CoreCompileInputs.cache
+C:\Users\Diak\Desktop\TomaArpadKristof20250529\YachtStatisztikaiRendszer\YachtStatisztikaiRendszer\obj\Debug\YachtStatisztikaiRendszer.exe
+C:\Users\Diak\Desktop\TomaArpadKristof20250529\YachtStatisztikaiRendszer\YachtStatisztikaiRendszer\obj\Debug\YachtStatisztikaiRendszer.pdb
