@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YachtberlesiRendszer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ac247e1bcf1e3e68603f9830adfb7e95147d172")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3f0e28274f26b4778878f98bdbda990d11112ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("YachtberlesiRendszer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YachtberlesiRendszer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
